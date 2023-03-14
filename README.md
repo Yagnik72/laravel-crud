@@ -1,1 +1,1 @@
-<p align="center"><a href="#" target="_blank"><img src="yagnik-desctop.png" width="400"></a></p>
+<div align="center"><img src="yagnik-desctop.png" style="width:100%;"></div>
